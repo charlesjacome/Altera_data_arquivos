@@ -10,3 +10,6 @@ __recovery/
 *.map
 Win32/
 Win64/
+
+# Clone avulso do repositorio do GitHub
+/Altera_data_arquivos/
