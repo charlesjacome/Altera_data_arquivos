@@ -1,0 +1,12 @@
+# Arquivos locais/temporarios da IDE Delphi
+__history/
+__recovery/
+*.dsk
+*.identcache
+*.local
+*.dcu
+*.exe
+*.rsm
+*.map
+Win32/
+Win64/
